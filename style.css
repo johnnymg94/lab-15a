@@ -1,0 +1,76 @@
+body {
+  background-image: url(images/bk-3.png);
+  font-family: "Rubik Mono One", sans-serif;
+  color: black;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 30px;
+}
+
+p {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 18px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  font-size: 5px;
+}
+
+form {
+  font-family: "Rubik Mono One", sans-serif;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.red {
+  color: red;
+}
+
+label {
+  font-family: "Rubik Mono One", sans-serif;
+  border-radius: 90px;
+  font-size: 24px;
+}
+
+select {
+  font-family: "Rubik Mono One", sans-serif;
+  font-size: 20px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+
+button {
+  font-family: "Rubik Mono One", sans-serif;
+  font-size: 24px;
+  background-color: black;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 90px;
+  cursor: pointer;
+}
+
+#shirt-generate {
+  margin-top: 50px;
+  text-align: center;
+}
+
+#shirt-image {
+  align-items: center;
+  width: 500px;
+  height: 400px;
+  margin-bottom: 20px;
+  border-color: black;
+  border-radius: 90px;
+}
+
+#shirt-description {
+  font-size: 24px;
+}
